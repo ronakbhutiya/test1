@@ -24,3 +24,9 @@
   height: 641px;
   background-color: darkgray;
 }
+.center-2 {
+  width: 590px;
+  background-color: darkgrey;
+  height: 60px;
+  margin: 60px auto;
+}
