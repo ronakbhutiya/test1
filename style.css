@@ -8,3 +8,9 @@
   height: 60px;
   background-color: darkgray;
 }
+.center-1 {
+  width: 550px;
+  background-color: darkgrey;
+  height: 60px;
+  margin: 60px auto;
+}
