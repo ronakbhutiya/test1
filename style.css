@@ -14,3 +14,13 @@
   height: 60px;
   margin: 60px auto;
 }
+.container-2 {
+  height: 100vh;
+  display: flex;
+  gap: 15px;
+}
+.box {
+  width: 700px;
+  height: 641px;
+  background-color: darkgray;
+}
