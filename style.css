@@ -47,3 +47,31 @@
   height: 60px;
   margin: 60px auto;
 }
+.container-main {
+  height: 100vh;
+  background-color: darkgray;
+  display: flex;
+  gap: 40px;
+  justify-content: center;
+  align-items: center;
+}
+.container-4 {
+  background-color: #ffff;
+  width: 330px;
+  height: 570px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  justify-content: center;
+  align-items: center;
+}
+.box-3 {
+  width: 285px;
+  height: 40px;
+  background-color: darkgray;
+}
+.box3 {
+  width: 285px;
+  height: 200px;
+  background-color: darkgray;
+}
