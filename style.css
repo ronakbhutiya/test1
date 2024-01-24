@@ -30,3 +30,14 @@
   height: 60px;
   margin: 60px auto;
 }
+.container-3 {
+  padding: 0 62px;
+  display: grid;
+  height: 100vh;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: 1fr 1fr;
+  gap: 20px;
+}
+.box-2 {
+  background-color: darkgray;
+}
