@@ -75,3 +75,55 @@
   height: 200px;
   background-color: darkgray;
 }
+.center-4 {
+  width: 300px;
+  background-color: darkgray;
+  height: 60px;
+  margin: 60px auto;
+  margin-bottom: 37px;
+}
+.container-5 {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 23px;
+}
+.box-4 {
+  width: 680px;
+  height: 70px;
+  background-color: darkgray;
+}
+.box4 {
+  width: 680px;
+  height: 300px;
+  background-color: darkgray;
+}
+.boxs {
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+  align-items: center;
+}
+.item {
+  width: 325px;
+  height: 65px;
+  background-color: darkgrey;
+  margin-bottom: 40px;
+}
+.container-6 {
+  background-color: darkgrey;
+  width: 100%;
+  height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 35px;
+  /* justify-content: space-between; */
+}
+.box-6 {
+  background-color: #ffff;
+  width: 630px;
+  height: 250px;
+}
