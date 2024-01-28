@@ -48,13 +48,13 @@
   margin: 60px auto;
 }
 .container-main {
-  padding: 60px 0;
+  padding: 90px 0;
   height: auto;
   background-color: darkgray;
   display: flex;
   gap: 40px;
   justify-content: center;
-  align-items: center;
+  /* align-items: center; */
 }
 .container-4 {
   padding: 20px;
@@ -64,7 +64,7 @@
   display: flex;
   flex-direction: column;
   gap: 30px;
-  justify-content: center;
+  /* justify-content: center; */
   align-items: center;
 }
 .box-3 {
@@ -75,7 +75,7 @@
 }
 .box3 {
   width: 285px;
-  height: 200px;
+  height: 215px;
   background-color: darkgray;
 }
 .center-4 {
